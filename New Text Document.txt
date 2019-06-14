@@ -1,0 +1,3 @@
+attributes
+type="A,a,I,i,1"
+start="number"
